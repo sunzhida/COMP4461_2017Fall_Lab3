@@ -1,7 +1,7 @@
-# Smart Device Programming
-> Lab materials for how to create smart home applications with Philips Hue.
+# Robot Programming
+> Lab materials for how to program with Pepper and NAO robots.
 
-[![Bootstrap][bootstrap-image]][bootstrap-url]
+[![Choregraphe][chor-image]][chor-url]
 [![HTML][html-image]][html-url]
 [![jshue][jshue-image]][jshue-url]
 [![License][license-image]][license-url]
@@ -143,8 +143,8 @@ We would love you for the contribution to **Lab2**, check the ``LICENSE`` file f
 
 [Zhida Sun](http://zsunaj.student.ust.hk/). Distributed under the MIT license. See ``LICENSE`` for more information.
 
-[html-image]:https://img.shields.io/badge/HTML5Boilerplate-6.0.1-66a2a2.svg
-[html-url]: https://html5boilerplate.com/
+[chor-image]:https://img.shields.io/badge/Choregraphe-2.5.5-008C96.svg
+[chor-url]: https://developer.softbankrobotics.com/us-en/downloads/pepper
 [jshue-image]:https://img.shields.io/badge/jsHue-2.1.1-66a2a2.svg?style=flat
 [jshue-url]: https://github.com/blargoner/jshue
 [bootstrap-image]:https://img.shields.io/badge/Bootstrap-4.0.0-66a2a2.svg?style=flat
