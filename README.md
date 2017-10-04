@@ -2,8 +2,7 @@
 > Lab materials for how to program with Pepper and NAO robots.
 
 [![Choregraphe][chor-image]][chor-url]
-[![HTML][html-image]][html-url]
-[![jshue][jshue-image]][jshue-url]
+[![Python][py-image]][py-url]
 [![License][license-image]][license-url]
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](http://makeapullrequest.com)
 
@@ -145,10 +144,8 @@ We would love you for the contribution to **Lab2**, check the ``LICENSE`` file f
 
 [chor-image]:https://img.shields.io/badge/Choregraphe-2.5.5-008C96.svg
 [chor-url]: https://developer.softbankrobotics.com/us-en/downloads/pepper
-[jshue-image]:https://img.shields.io/badge/jsHue-2.1.1-66a2a2.svg?style=flat
-[jshue-url]: https://github.com/blargoner/jshue
-[bootstrap-image]:https://img.shields.io/badge/Bootstrap-4.0.0-66a2a2.svg?style=flat
-[bootstrap-url]: https://getbootstrap.com/
+[py-image]:https://img.shields.io/badge/Python-3.6.3-66a2a2.svg?style=flat
+[py-url]: https://docs.python.org/3.6/
 [license-image]: https://img.shields.io/badge/License-MIT-blue.svg
 [license-url]: ./LICENSE.md
 [travis-image]: https://img.shields.io/travis/dbader/node-datadog-metrics/master.svg?style=flat
