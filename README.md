@@ -10,7 +10,7 @@
 <!-- [![Inline docs](http://inch-ci.org/github/sunzhida/COMP4461_2017Fall_Lab2.svg?branch=master)](http://inch-ci.org/github/sunzhida/COMP4461_2017Fall_Lab2) -->
 <!-- [![Build Status][travis-image]][travis-url] -->
 
-In this lab, we will introduce how to program with Philips Hue with JavaScript. In this repository, there is a framework created for you to get started.
+In this lab, we will introduce how to program with Pepper robot from SoftBank Robotics by python. This lab will be divided into two sessions. For the first session, we will show how to program with Choregraphe, and we are going to teach programming with python in the second session. In this repository, there is a demo created for you to get started.
 
 ## Table of contents
 
@@ -147,7 +147,7 @@ We would love you for the contribution to **Lab2**, check the ``LICENSE`` file f
 [chor-url]: https://developer.softbankrobotics.com/us-en/downloads/pepper
 [py-image]:https://img.shields.io/badge/Python-2.7-008C96.svg?style=flat
 [py-url]: https://www.python.org/downloads/
-[qi-image]:https://img.shields.io/badge/NAOqi+SDK-2.4.3-008C96.svg?style=flat
+[qi-image]:https://img.shields.io/badge/SDK-2.4.3-008C96.svg?style=flat
 [qi-url]: https://community.ald.softbankrobotics.com/en/resources/software/language/en-gb/robot/pepper-3
 [license-image]: https://img.shields.io/badge/License-MIT-blue.svg
 [license-url]: ./LICENSE.md
