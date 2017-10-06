@@ -147,7 +147,7 @@ We would love you for the contribution to **Lab2**, check the ``LICENSE`` file f
 [chor-url]: https://developer.softbankrobotics.com/us-en/downloads/pepper
 [py-image]:https://img.shields.io/badge/Python-2.7-008C96.svg?style=flat
 [py-url]: https://www.python.org/downloads/
-[qi-image]:https://img.shields.io/badge/SDK-2.4.3-008C96.svg?style=flat
+[qi-image]:https://img.shields.io/badge/NAOqi+SDK-2.4.3-008C96.svg?style=flat
 [qi-url]: https://community.ald.softbankrobotics.com/en/resources/software/language/en-gb/robot/pepper-3
 [license-image]: https://img.shields.io/badge/License-MIT-blue.svg
 [license-url]: ./LICENSE.md
