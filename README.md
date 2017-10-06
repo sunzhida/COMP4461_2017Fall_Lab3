@@ -144,7 +144,7 @@ We would love you for the contribution to **Lab2**, check the ``LICENSE`` file f
 
 [chor-image]:https://img.shields.io/badge/Choregraphe-2.5.5-008C96.svg
 [chor-url]: https://developer.softbankrobotics.com/us-en/downloads/pepper
-[py-image]:https://img.shields.io/badge/Python-3.6.3-008C96.svg?style=flat
+[py-image]:https://img.shields.io/badge/Python-2.7-008C96.svg?style=flat
 [py-url]: https://docs.python.org/3.6/
 [license-image]: https://img.shields.io/badge/License-MIT-blue.svg
 [license-url]: ./LICENSE.md
