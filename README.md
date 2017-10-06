@@ -1,8 +1,9 @@
 # Robot Programming
-> Lab materials for how to program with Pepper and NAO robots.
+> Lab materials for how to program with Pepper.
 
 [![Choregraphe][chor-image]][chor-url]
 [![Python][py-image]][py-url]
+[![naoqi][qi-image]][qi-url]
 [![License][license-image]][license-url]
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](http://makeapullrequest.com)
 
@@ -145,7 +146,9 @@ We would love you for the contribution to **Lab2**, check the ``LICENSE`` file f
 [chor-image]:https://img.shields.io/badge/Choregraphe-2.5.5-008C96.svg
 [chor-url]: https://developer.softbankrobotics.com/us-en/downloads/pepper
 [py-image]:https://img.shields.io/badge/Python-2.7-008C96.svg?style=flat
-[py-url]: https://docs.python.org/3.6/
+[py-url]: https://www.python.org/downloads/
+[qi-image]:https://img.shields.io/badge/SDK-2.4.3-008C96.svg?style=flat
+[qi-url]: https://community.ald.softbankrobotics.com/en/resources/software/language/en-gb/robot/pepper-3
 [license-image]: https://img.shields.io/badge/License-MIT-blue.svg
 [license-url]: ./LICENSE.md
 [travis-image]: https://img.shields.io/travis/dbader/node-datadog-metrics/master.svg?style=flat
