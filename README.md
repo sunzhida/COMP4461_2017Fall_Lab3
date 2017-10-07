@@ -57,7 +57,7 @@ By clicking into the [link](https://developer.softbankrobotics.com/us-en/downloa
 654e-4564-153c-6518-2f44-7562-206e-4c60-5f47-5f45
 ```
 
-Keep it and later we will use this key to register activate our application. Download the install package that suits you operating system, and then follow the images below to install the application on your machine.
+Keep it and later we will use this key to activate our application. Download the install package that suits you operating system, and then follow the images below to install the application on your machine.
 
 - Step one: <br><img src="./images/1.png" alt="step 1" width="50%">
 - Step two: <br><img src="./images/2.png" alt="step 2" width="50%">
@@ -68,6 +68,11 @@ Keep it and later we will use this key to register activate our application. Dow
 N.B.: You can also refer to the official [installation guide](http://doc.aldebaran.com/2-5/software/choregraphe/installing.html).
 
 ### How to use _Choregraphe_?
+
+When we start the application, the initial interface looks like below:
+
+<img src="./images/interface.png" alt="interface" width="50%">
+
 You can acquire the detail information about the bridge through [this](https://account.meethue.com/login), like the Internal IP Address, Gateway, etc. You need this information to debug with the lights when you develop your applications.
 
 ## Development
