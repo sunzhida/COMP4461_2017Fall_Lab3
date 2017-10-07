@@ -85,20 +85,19 @@ After you get the `Demo` folder, please open the `.pml` file with Choregraphe, a
 
 | No. | Speech | Screen | Gesture | Sound | Remarks |
 | :------| :------ | :------ | :------ | :------ | :------ |
-| <sup>1</sup> | <sup>Hi! Welcome to the Engineering Commons.</sup> | <sup>Embrace_change</sup> ||||
-| <sup>2.1</sup> | <sup>Do you want to see me dance?<sup> | <sup>Embrace_change</sup> ||||
-| <sup>2.2</sup> || <sup>Embrace_change</sup> | <sup>Lift forearm to 90 degrees</sup> || <sup>If `yes`, go to 2.3, otherwise go to 3.1</sup> |
-| <sup>2.3</sup> || <sup>Embrace_change</sup> | <sup>Disco dance</sup> | <sup>Saxophone music</sup> ||
-| <sup>3.1</sup> | <sup>Do you want to know more about today's Engineering admission events?</sup> | <sup>Embrace_change</sup> ||||
-| <sup>3.2</sup> || <sup>Embrace_change</sup> | <sup>Lift forearm to 90 degrees</sup> || <sup>If `yes`, go to 3.3, otherwise go to 4.1</sup> |
-| <sup>3.3</sup> | <sup>Scan me to download the app! Engineering related talks will be held in Lecture Theatre J... K... and H. Besides, Consultation sessions will be provided for both DSE and non-DSE applicants.</sup> | <sup>Info Day app QR code</sup> | <sup>Related gestures</sup> |||
-| <sup>4.1</sup> | <sup>DO you want to see something cool?</sup> | <sup>Info Day app QR code</sup> ||||
-| <sup>4.2</sup> || <sup>Info Day app QR code</sup> | <sup>Lift forearm to 90 degrees</sup> || <sup>If `yes`, go to 4.3, otherwise go to 5.1</sup> |
-| <sup>4.3</sup> | <sup>On campus today, you can watch robots battle against each other. You can even sign up to play!</sup> | <sup>Robomaster_image</sup> ||||
-| <sup>4.4</sup> || <sup>Robomaster_image</sup> | <sup>Gorilla action</sup> | <sup>Machine gun sound</sup> ||
-| <sup>4.5</sup> | <sup>You can see an electric vehicle built by our students</sup> | <sup>EVcar_image</sup> ||||
-| <sup>4.6</sup> || <sup>EVcar_image</sup> | <sup>Driving action</sup> | <sup>Car sound</sup> ||
-
+| 1 | Hi! Welcome to the Engineering Commons. | Embrace_change ||||
+| 2.1 | Do you want to see me dance? | Embrace_change ||||
+| 2.2 || Embrace_change | Lift forearm to 90 degrees || If `yes`, go to 2.3, otherwise go to 3.1 |
+| 2.3 || Embrace_change | Disco dance | Saxophone music ||
+| 3.1 | Do you want to know more about today's Engineering admission events? | Embrace_change ||||
+| 3.2 || Embrace_change | Lift forearm to 90 degrees || If `yes`, go to 3.3, otherwise go to 4.1 |
+| 3.3 | Scan me to download the app! Engineering related talks will be held in Lecture Theatre J... K... and H. Besides, Consultation sessions will be provided for both DSE and non-DSE applicants. | Info Day app QR code | Related gestures |||
+| 4.1 | DO you want to see something cool? | Info Day app QR code ||||
+| 4.2 || Info Day app QR code | Lift forearm to 90 degrees ||If `yes`, go to 4.3, otherwise go to 5.1 |
+| 4.3 | On campus today, you can watch robots battle against each other. You can even sign up to play! | Robomaster_image ||||
+| 4.4 || Robomaster_image | Gorilla action | Machine gun sound||
+| 4.5 | You can see an electric vehicle built by our students| EVcar_image||||
+| 4.6 || EVcar_image | Driving action | Car sound||
 
 ### Live demo
 We will follow the tutorials [here](https://developers.meethue.com/documentation/getting-started) to show how to get familiar with the programming environments with Hue.
