@@ -12,7 +12,7 @@
 <!-- [![Inline docs](http://inch-ci.org/github/sunzhida/COMP4461_2017Fall_Lab2.svg?branch=master)](http://inch-ci.org/github/sunzhida/COMP4461_2017Fall_Lab2) -->
 <!-- [![Build Status][travis-image]][travis-url] -->
 
-In this lab, we will introduce how to program with Pepper robot from SoftBank Robotics by python. This lab will be divided into two sessions. For the first session, we will show how to program with Choregraphe, and we are going to teach programming with python in the second session. In this repository, there is a demo created for you to get started.
+In this lab, we will introduce how to program with [Pepper](https://www.ald.softbankrobotics.com/en/robots/pepper) robot from SoftBank Robotics by python. This lab will be divided into two sessions. For the first session, we will show how to program with Choregraphe, and we are going to teach programming with python in the second session. In this repository, there is a demo created for you to get started.
 
 ## Table of contents
 
