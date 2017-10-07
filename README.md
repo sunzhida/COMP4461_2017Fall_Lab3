@@ -7,8 +7,8 @@
 [![License][license-image]][license-url]
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](http://makeapullrequest.com)
 
-<!-- [![Inline docs](http://inch-ci.org/github/sunzhida/COMP4461_2017Fall_Lab2.svg?branch=master)](http://inch-ci.org/github/sunzhida/COMP4461_2017Fall_Lab2) -->
-<!-- [![Build Status][travis-image]][travis-url] -->
+[![Inline docs](http://inch-ci.org/github/sunzhida/COMP4461_2017Fall_Lab2.svg?branch=master)](http://inch-ci.org/github/sunzhida/COMP4461_2017Fall_Lab2)
+[![Build Status][travis-image]][travis-url]
 
 In this lab, we will introduce how to program with [Pepper](https://www.ald.softbankrobotics.com/en/robots/pepper) robot by Choregraphe. In this repository, there is a demo created by Choregraphe for you to get started.
 
@@ -16,13 +16,12 @@ In this lab, we will introduce how to program with [Pepper](https://www.ald.soft
 
 - [Overview](#overview)
 - [Configuration](#configuration)
-- [Development](#development)
+- [Implementation](#implementation)
 - [Tips](#tips)
 - [Contribute](#contribute)
 - [Meta](#meta)
 
 ## Overview
-
 
 ### What is _Pepper_?
 
@@ -75,7 +74,7 @@ Before starting the application, we need to connect to the '**NaoRobotNet**' (th
 
 For each part of the interface, i.e., toolbar and other panels, please refer to the detailed explanation from the official [website](http://doc.aldebaran.com/2-5/software/choregraphe/interface.html). There is also a chart which describes each button in details.
 
-## Development
+## Implementation
 
 After you get the `Demo` folder, please open the `.pml` file with Choregraphe, and you will see a project created by the same application previously. This project is created for the demonstration of Engineering School on [Information Day](https://infoday.ust.hk/), 2017. We will explain this demo in details:
 
