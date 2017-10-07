@@ -98,6 +98,15 @@ After you get the `Demo` folder, please open the `.pml` file with Choregraphe, a
 | 4.4 || Robomaster_image | Gorilla action | Machine gun sound||
 | 4.5 | You can see an electric vehicle built by our students| EVcar_image||||
 | 4.6 || EVcar_image | Driving action | Car sound||
+| 4.7 | You can visit the labs to see experiments. | Lab_image ||||
+| 4.8 | You can take pictures with the 3D trick art and explore the world of tomorrow through Augmented Reality. | HKUST.SENG_AR_LiPHY_app ||||
+| 4.9 || HKUST.SENG_AR_LiPHY_app | Camera action | Shutter sound ||
+| 4.10 | You can scan special lights for information. | HKUST.SENG_AR_LiPHY_app ||||
+| 4.11 || HKUST.SENG_AR_LiPHY_app | Eyes light up |||
+| 4.12 | For the 3D trick art, scan the HKUST.SENG AR app QR code shown on the left. For special lights, scan the Lie Fly app QR code on the right. | HKUST.SENG_AR_LiPHY_app | Speaking gestures |||
+| 5.1 | If you need help finding information today, feel free to reach out to our Engineering Student Ambassadors. | ESA_image ||||
+| 5.2 | Enjoy your day at the most beautiful campus in Hong Kong. See you around! | HKUST_image | Related gestures |||
+
 
 ### Live demo
 We will follow the tutorials [here](https://developers.meethue.com/documentation/getting-started) to show how to get familiar with the programming environments with Hue.
