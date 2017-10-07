@@ -85,7 +85,7 @@ After you get the `Demo` folder, please open the `.pml` file with Choregraphe, a
 
 | No. | Speech | Screen | Gesture | Sound | Remarks |
 | :------| :------ | :------ | :------ | :------ | :------ |
-| 1 | <sep>Hi! Welcome to the Engineering Commons.</sep> | Embrace_change ||||
+| 1 | <sup>Hi! Welcome to the Engineering Commons.</sup> | Embrace_change ||||
 | 2.1 | Do you want to see me dance? | Embrace_change ||||
 | 2.2 || Embrace_change | Lift forearm to 90 degrees || If `yes`, go to 2.3, otherwise go to 3.1 |
 | 2.3 || Embrace_change | Disco dance | Saxophone music ||
