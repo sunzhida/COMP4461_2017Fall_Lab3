@@ -1,5 +1,5 @@
 # Robot Programming
-> Lab materials for how to program with Pepper.<br>
+> Lab materials for how to program with Pepper by Choregraphe.<br>
 > Venue: Room 4221, Teaching Lab 1, Academic Building.<br>
 > Date: Nov. 3 & 10, 2017
 
@@ -12,7 +12,7 @@
 <!-- [![Inline docs](http://inch-ci.org/github/sunzhida/COMP4461_2017Fall_Lab2.svg?branch=master)](http://inch-ci.org/github/sunzhida/COMP4461_2017Fall_Lab2) -->
 <!-- [![Build Status][travis-image]][travis-url] -->
 
-In this lab, we will introduce how to program with [Pepper](https://www.ald.softbankrobotics.com/en/robots/pepper) robot from SoftBank Robotics by python. This lab will be divided into two sessions. For the first session, we will show how to program with Choregraphe. We are going to teach programming with python in the second session. In this repository, there is a demo created by Choregraphe for you to get started.
+In this lab, we will introduce how to program with [Pepper](https://www.ald.softbankrobotics.com/en/robots/pepper) robot by Choregraphe. This lab will be divided into two sessions. For the first session, we will show how to program with Choregraphe. We are going to teach programming with python in the second session. In this repository, there is a demo created by Choregraphe for you to get started.
 
 ## Table of contents
 
@@ -27,7 +27,13 @@ In this lab, we will introduce how to program with [Pepper](https://www.ald.soft
 
 ### What is Pepper?
 
+[Pepper](https://en.wikipedia.org/wiki/Pepper_(robot)) is a humanoid robot by Aldebaran Robotics and SoftBank designed with the ability to read emotions.
 
+The structure of Pepper:
+
+### What is Choregraphe?
+
+[Choregraphe]() is a multi-platform development application with graphical user interface. It allows you to create animations and behaviors, test them on a simulated robot or directly on a real one, monitor and control Pepper, etc.
 
 [SoftBank Robotics Documentation](http://doc.aldebaran.com/)
 
