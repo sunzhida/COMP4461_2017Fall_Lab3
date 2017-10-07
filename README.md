@@ -60,6 +60,8 @@ By clicking into the [link](https://developer.softbankrobotics.com/us-en/downloa
 
 Keep it and later we will use this key to register activate our application. Download the install package that suits you operating system, and then follow the images below to install the application on your machine.
 
+<img src="./images/1.png" alt=""  width="30%">
+
 ![](images/1.png)
 ![](images/2.png)
 ![](images/3.png)
