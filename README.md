@@ -7,8 +7,8 @@
 [![License][license-image]][license-url]
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](http://makeapullrequest.com)
 
-[![Inline docs](http://inch-ci.org/github/sunzhida/COMP4461_2017Fall_Lab2.svg?branch=master)](http://inch-ci.org/github/sunzhida/COMP4461_2017Fall_Lab2)
-[![Build Status][travis-image]][travis-url]
+<!-- [![Inline docs](http://inch-ci.org/github/sunzhida/COMP4461_2017Fall_Lab2.svg?branch=master)](http://inch-ci.org/github/sunzhida/COMP4461_2017Fall_Lab2) -->
+<!-- [![Build Status][travis-image]][travis-url] -->
 
 In this lab, we will introduce how to program with [Pepper](https://www.ald.softbankrobotics.com/en/robots/pepper) robot by Choregraphe. In this repository, there is a demo created by Choregraphe for you to get started.
 
@@ -97,7 +97,7 @@ For each components, the detailed design is as below:
 | 3.1 | Do you want to know more about today's Engineering admission events? | Embrace_change ||||
 | 3.2 || Embrace_change | Lift forearm to 90 degrees || If `yes`, go to 3.3, otherwise go to 4.1 |
 | 3.3 | Scan me to download the app! Engineering related talks will be held in Lecture Theatre J... K... and H. Besides, Consultation sessions will be provided for both DSE and non-DSE applicants. | Info Day app QR code | Related gestures |||
-| 4.1 | DO you want to see something cool? | Info Day app QR code ||||
+| 4.1 | Do you want to see something cool? | Info Day app QR code ||||
 | 4.2 || Info Day app QR code | Lift forearm to 90 degrees ||If `yes`, go to 4.3, otherwise go to 5.1 |
 | 4.3 | On campus today, you can watch robots battle against each other. You can even sign up to play! | Robomaster_image ||||
 | 4.4 || Robomaster_image | Gorilla action | Machine gun sound||
@@ -116,58 +116,11 @@ Based on the scheme, we can add and change related gestures, screen image or spe
 
 ### Live demo
 
-After we finished editing the  
+After we finished editing the program, we can upload the program to the Pepper robot while it is in the rest mode. Then we can click the `play` button to test the program on Pepper.
 
-We will follow the tutorials [here](https://developers.meethue.com/documentation/getting-started) to show how to get familiar with the programming environments with Hue.
+### About the Demo
 
-First, we need to obtain the _Internal IP Address_ and bridge assigned _Username_. After get connected with Hue bulb(s) via your devices, we can acquire all the bulbs' state through the link:
-
-```
-http://<Internal IP Address>/api/<Username>/lights
-```
-
-The structure of the data is like (here we use only one bulb):
-
-```json
-{
-	"1": {
-		"state": {
-			"on": true,
-			"bri": 254,
-			"hue": 14910,
-			"sat": 144,
-			"effect": "none",
-			"xy": [0.4596, 0.4105],
-			"ct": 370,
-			"alert": "none",
-			"colormode": "ct",
-			"reachable": true
-		},
-		"swupdate": {
-			"state": "transferring",
-			"lastinstall": null
-		},
-		"type": "Extended color light",
-		"name": "Hue color lamp 1",
-		"modelid": "LCT007",
-		"manufacturername": "Philips",
-		"uniqueid": "(omit)",
-		"swversion": "5.38.1.14919"
-	}
-}
-```
-
-Then we can try to modify the bulb's state via:
-
-```
-http://<Internal IP Address>/api/<Username>/lights/1/state
-```
-
-with ``PUT`` method.
-
-Note that the range for ``bri`` and ``sat`` are from ``0`` to ``254``, and the range for ``hue`` is from ``0`` to ``65535``. The bulbs we used are in ``LCT007`` model and the CIE color space is in [Gamut B](https://developers.meethue.com/documentation/core-concepts#color_gets_more_complicated).
-
-### About the framework
+The 
 
 This framework is built upon HTML5 Boilerplate V6.0.1, Boostrap v4 and jsHue v2.1.1. After extract the content into your server (e.g. Apache), you can get the bridge _IP Address_ from `console`.
 
