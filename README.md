@@ -1,5 +1,7 @@
 # Robot Programming
-> Lab materials for how to program with Pepper.
+> Lab materials for how to program with Pepper.<br>
+> Venue: Room 4221, Teaching Lab 1, Academic Building.<br>
+> Date: Nov. 3 & 10, 2017
 
 [![Choregraphe][chor-image]][chor-url]
 [![Python][py-image]][py-url]
