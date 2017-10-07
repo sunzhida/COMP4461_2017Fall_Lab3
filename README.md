@@ -34,32 +34,11 @@ In this lab, we will introduce how to program with [Pepper](https://www.ald.soft
 
 ### What is Choregraphe?
 
-[Choregraphe]() is a multi-platform development application with graphical user interface. It allows you to create animations and behaviors, test them on a simulated robot or directly on a real one, monitor and control Pepper, etc.
-
-[SoftBank Robotics Documentation](http://doc.aldebaran.com/)
-
-### What is Philips Hue?
-[Philips Hue](https://en.wikipedia.org/wiki/Philips_Hue) is a line of color changing LED lamps and white bulbs created by Philips. It can provide an immersive
-experience with various user-defined lighting. There are different kinds of products in this line, and we are going to
-use ‘[Philips Hue White and Color Wireless Ambiance Starter Kit A19 E27](https://www.apple.com/hk/shop/product/HJCA2PA/B/philips-hue-white-and-color-wireless-ambiance-starter-kit-a19-e27)’ in this lab.
-The set of Philips Hue that we used in our project consists of four parts:
-* Three Hue light bulbs
-* One Hue bridge
-* Power adapter for Hue bridge
-* LAN cable to connect the Hue bridge to your router
-
-### How Philips Hue works?
-There are [four components](https://developers.meethue.com/) within Hue system:
-* __Applications__: The control part of the system. It provides the interface for the users to make the lights do smart things.
-* __Portal__: The connection part of the system. It delivers control commands from outside and keeps your software in the bridge up-to-date. The portal presents a utility API to help you discover the address of your bridge.
-* __Bridge__: The communication part of the system. It enables the bulbs to communicate with each other as well as the portal through the Internet.
-* __Lights__: The output of the system. They are connected to the bridge via an open standards protocol called ZigBee Light Link. These smart bulbs contain three types of LED specially chosen to produce a range of colors and intensities.
-
-![](Structure.png)
+[Choregraphe](https://developer.softbankrobotics.com/us-en/downloads/pepper) is a multi-platform development application with graphical user interface. It allows you to create animations and behaviors on Pepper, test them on a simulated robot or directly on a real one, monitor and control Pepper, etc.
 
 ## Configuration
 
-### How to set up Philips Hue?
+### How to install Choregraphe 2.5.5?
 First, we need to prepare all the components as mentioned above. Make sure that:
 * The application connects the local network created by the Wi-Fi router.
 * The Wi-Fi router connects the Internet.
@@ -142,6 +121,10 @@ You will take the variable as a key to communicate with Hue.
 After that you can follow the [instruction of jsHue](https://github.com/blargoner/jshue) to pass your commands to the bridge through your devices.
 
 ## Tips
+
+- [SoftBank Robotics Documentation](http://doc.aldebaran.com/)
+- test
+
 + Involve in the development community to get inspired, e.g., [Hue Pro Development Community](https://plus.google.com/communities/117365177082293877496).
 + Philips Hue [API](https://developers.meethue.com/philips-hue-api).
 + Philips Hue Python RGB / CIE1931 "xy" [Converter](https://github.com/benknight/hue-python-rgb-converter).
