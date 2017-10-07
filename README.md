@@ -55,7 +55,19 @@ By clicking into the [link](https://developer.softbankrobotics.com/us-en/downloa
 
 ```
 654e-4564-153c-6518-2f44-7562-206e-4c60-5f47-5f45
+
 ```
+
+Keep it and later we will use this key to register activate our application. Download the install package that suits you operating system, and then follow the images below to install the application on your machine.
+
+![](images/1.png)
+![](images/2.png)
+![](images/3.png)
+![](images/4.png)
+![](images/5.png)
+
+
+
 
 First, we need to prepare all the components as mentioned above. Make sure that:
 * The application connects the local network created by the Wi-Fi router.
