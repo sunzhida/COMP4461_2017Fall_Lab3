@@ -77,9 +77,15 @@ For each part of the interface, i.e., toolbar and other panels, please refer to 
 
 ## Development
 
+After you get the `Demo` folder, please open the `.pml` file with Choregraphe, and you will see a project created by the same application previously. This project is created for the demonstration of Engineering School on [Information Day](https://infoday.ust.hk/), 2017. We will explain this demo in details:
+
 ### Flow chart
 
-### Detailed explanation
+### Detailed explanation for each step
+
+
+
+
 
 ### Live demo
 We will follow the tutorials [here](https://developers.meethue.com/documentation/getting-started) to show how to get familiar with the programming environments with Hue.
