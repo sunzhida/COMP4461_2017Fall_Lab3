@@ -83,9 +83,10 @@ After you get the `Demo` folder, please open the `.pml` file with Choregraphe, a
 
 ### Detailed explanation for each step
 
+<sup>
 | No. | Speech | Screen | Gesture | Sound | Remarks |
 | :------| :------ | :------ | :------ | :------ | :------ |
-| 1 | <sup>Hi! Welcome to the Engineering Commons.</sup> | Embrace_change ||||
+| 1 | Hi! Welcome to the Engineering Commons. | Embrace_change ||||
 | 2.1 | Do you want to see me dance? | Embrace_change ||||
 | 2.2 || Embrace_change | Lift forearm to 90 degrees || If `yes`, go to 2.3, otherwise go to 3.1 |
 | 2.3 || Embrace_change | Disco dance | Saxophone music ||
@@ -98,6 +99,7 @@ After you get the `Demo` folder, please open the `.pml` file with Choregraphe, a
 | 4.4 || Robomaster_image | Gorilla action | Machine gun sound||
 | 4.5 | You can see an electric vehicle built by our students| EVcar_image||||
 | 4.6 || EVcar_image | Driving action | Car sound||
+</sup>
 
 ### Live demo
 We will follow the tutorials [here](https://developers.meethue.com/documentation/getting-started) to show how to get familiar with the programming environments with Hue.
