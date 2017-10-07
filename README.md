@@ -45,7 +45,7 @@ N.B.: You can also find out [more](https://www.ald.softbankrobotics.com/en/robot
 
 ### What is _Choregraphe_?
 
-[Choregraphe](https://developer.softbankrobotics.com/us-en/downloads/pepper) is a multi-platform development application with graphical user interface. It allows you to create animations and behaviors on Pepper, test them on a simulated robot or directly on a real one, monitor and control Pepper, etc.
+[Choregraphe](hhttp://doc.aldebaran.com/2-5/software/choregraphe/choregraphe_overview.html) is a multi-platform development application with graphical user interface. It allows you to create animations and behaviors on Pepper, test them on a simulated robot or directly on a real one, monitor and control Pepper, etc.
 
 ## Configuration
 
@@ -55,7 +55,6 @@ By clicking into the [link](https://developer.softbankrobotics.com/us-en/downloa
 
 ```
 654e-4564-153c-6518-2f44-7562-206e-4c60-5f47-5f45
-
 ```
 
 Keep it and later we will use this key to register activate our application. Download the install package that suits you operating system, and then follow the images below to install the application on your machine.
@@ -66,7 +65,9 @@ Keep it and later we will use this key to register activate our application. Dow
 - Step four: <br><img src="./images/4.png" alt="step 4" width="50%">
 - Step five: <br><img src="./images/5.png" alt="step 5" width="50%">
 
-### How to get the bridge details?
+N.B.: You can also refer to the official [installation guide](http://doc.aldebaran.com/2-5/software/choregraphe/installing.html).
+
+### How to use _Choregraphe_?
 You can acquire the detail information about the bridge through [this](https://account.meethue.com/login), like the Internal IP Address, Gateway, etc. You need this information to debug with the lights when you develop your applications.
 
 ## Development
@@ -141,17 +142,11 @@ After that you can follow the [instruction of jsHue](https://github.com/blargone
 ## Tips
 
 - [SoftBank Robotics Documentation](http://doc.aldebaran.com/)
-- test
-
-+ Involve in the development community to get inspired, e.g., [Hue Pro Development Community](https://plus.google.com/communities/117365177082293877496).
-+ Philips Hue [API](https://developers.meethue.com/philips-hue-api).
-+ Philips Hue Python RGB / CIE1931 "xy" [Converter](https://github.com/benknight/hue-python-rgb-converter).
-+ You can learn from the other developers’ works from [here](https://developers.meethue.com/tools-and-sdks).
-
+- [Choregraphe Suite](http://doc.aldebaran.com/2-5/software/choregraphe/index.html)
 
 ## Contribute
 
-We would love you for the contribution to **Lab2**, check the ``LICENSE`` file for more information.
+We would love you for the contribution to **Lab3**, check the ``LICENSE`` file for more information.
 
 ## Meta
 
