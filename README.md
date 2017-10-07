@@ -118,9 +118,7 @@ Based on the scheme, we can add and change related gestures, screen image or spe
 
 After we finished editing the program, we can upload the program to the Pepper robot while it is in the rest mode. Then we can click the `play` button to test the program on Pepper.
 
-### About the _Demo_
-
-The additional sound and image files are stored in the `html` subfolder, while the main program is in `show.pml` file. You can start your program based on that.
+In the _Demo_ folder, the additional sound and image files are stored in the `html` subfolder, while the main program is in `show.pml` file. You can start your program based on that.
 
 ## Tips
 
