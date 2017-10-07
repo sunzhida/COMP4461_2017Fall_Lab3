@@ -41,7 +41,7 @@ Pepper can express itself through [speech](http://doc.aldebaran.com/2-5/family/p
 
 Pepper robot can detect sound, people, obstacles based on its perception algorithms. The OS is a modified Gentoo distribution called OpenNAO with [NAOqi OS](https://www.ald.softbankrobotics.com/en/robots/tools) on top of it. The robotics OS runs all the software from hardware control to AI decision making.
 
-You can also find out [more](https://www.ald.softbankrobotics.com/en/robots/pepper/find-out-more-about-pepper) about Pepper.
+N.B.: You can also find out [more](https://www.ald.softbankrobotics.com/en/robots/pepper/find-out-more-about-pepper) about Pepper.
 
 ### What is _Choregraphe_?
 
@@ -51,7 +51,11 @@ You can also find out [more](https://www.ald.softbankrobotics.com/en/robots/pepp
 
 ### How to install _Choregraphe_ 2.5.5?
 
+By clicking into the [link](https://developer.softbankrobotics.com/us-en/downloads/pepper) of Choregraphe download page, you will get a license key as:
 
+```
+654e-4564-153c-6518-2f44-7562-206e-4c60-5f47-5f45
+```
 
 First, we need to prepare all the components as mentioned above. Make sure that:
 * The application connects the local network created by the Wi-Fi router.
