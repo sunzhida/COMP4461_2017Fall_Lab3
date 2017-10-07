@@ -60,23 +60,16 @@ By clicking into the [link](https://developer.softbankrobotics.com/us-en/downloa
 
 Keep it and later we will use this key to register activate our application. Download the install package that suits you operating system, and then follow the images below to install the application on your machine.
 
-<img src="./images/1.png" alt="step 1" width="50%" align="middle">
-
-![](images/1.png)
-![](images/2.png)
-![](images/3.png)
-![](images/4.png)
-![](images/5.png)
-
-
-
-
-First, we need to prepare all the components as mentioned above. Make sure that:
-* The application connects the local network created by the Wi-Fi router.
-* The Wi-Fi router connects the Internet.
-* The bridge connects the Wi-Fi router, and all the blue lights are on without blinking.
-
-Note that your application and the bridge should be in the same local network.
+- Step one:
+<img src="./images/1.png" alt="step 1" width="50%">
+- Step two:
+<img src="./images/2.png" alt="step 2" width="50%">
+- Step three:
+<img src="./images/3.png" alt="step 3" width="50%">
+- Step four:
+<img src="./images/4.png" alt="step 4" width="50%">
+- Step five:
+<img src="./images/5.png" alt="step 5" width="50%">
 
 ### How to get the bridge details?
 You can acquire the detail information about the bridge through [this](https://account.meethue.com/login), like the Internal IP Address, Gateway, etc. You need this information to debug with the lights when you develop your applications.
