@@ -81,7 +81,13 @@ After you get the `Demo` folder, please open the `.pml` file with Choregraphe, a
 
 ### Flow chart
 
-### Detailed explanation for each step
+The work flow is designed as below:
+
+![](images/flowchart.jpg)
+
+### Detailed explanation for each components
+
+For each components, the detailed design is as below:
 
 | No. | Speech | Screen | Gesture | Sound | Remarks |
 | :------| :------ | :------ | :------ | :------ | :------ |
@@ -107,8 +113,12 @@ After you get the `Demo` folder, please open the `.pml` file with Choregraphe, a
 | 5.1 | If you need help finding information today, feel free to reach out to our Engineering Student Ambassadors. | ESA_image ||||
 | 5.2 | Enjoy your day at the most beautiful campus in Hong Kong. See you around! | HKUST_image | Related gestures |||
 
+Based on the scheme, we can add and change related gestures, screen image or speech text accordingly.
 
 ### Live demo
+
+After we finished editing the  
+
 We will follow the tutorials [here](https://developers.meethue.com/documentation/getting-started) to show how to get familiar with the programming environments with Hue.
 
 First, we need to obtain the _Internal IP Address_ and bridge assigned _Username_. After get connected with Hue bulb(s) via your devices, we can acquire all the bulbs' state through the link:
