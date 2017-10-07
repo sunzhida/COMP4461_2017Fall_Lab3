@@ -27,9 +27,10 @@ In this lab, we will introduce how to program with [Pepper](https://www.ald.soft
 
 ### What is Pepper?
 
-[Pepper](https://en.wikipedia.org/wiki/Pepper_(robot)) is a humanoid robot by Aldebaran Robotics and SoftBank designed with the ability to read emotions. [Here](http://doc.aldebaran.com/2-4/family/pepper_technical/index_pep.html) is a technical overview of Pepper and you can find out the  Pepper's structure as well as the other technical details from the instruction. During the experiment, you can interact with Pepper through [contact and tactile sensors](http://doc.aldebaran.com/2-4/family/pepper_technical/contact-sensors_pep.html). You can refer to a official brochure to obtain more general information.
+[Pepper](https://en.wikipedia.org/wiki/Pepper_(robot)) is a humanoid robot by Aldebaran Robotics and SoftBank designed with the ability to read emotions. [Here](http://doc.aldebaran.com/2-4/family/pepper_technical/index_pep.html) is a technical overview of Pepper and you can find out the  Pepper's structure as well as the other technical details from the instruction. During the experiment, you can interact with Pepper through [contact and tactile sensors](http://doc.aldebaran.com/2-4/family/pepper_technical/contact-sensors_pep.html). You can refer to an
+<img src="./images/PEPPERbrochure_EN.pdf" alt="official brochure"  width="100%"> to obtain more general information.
 
-<img src="./images/PEPPERbrochure_EN.pdf" alt="PDF images"  width="100%">
+
 
 ### What is Choregraphe?
 
