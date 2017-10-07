@@ -12,7 +12,7 @@
 
 In this lab, we will introduce how to program with [Pepper](https://www.ald.softbankrobotics.com/en/robots/pepper) robot by Choregraphe. In this repository, there is a demo created by Choregraphe for you to get started.
 
-## Table of contents
+## Table of Contents
 
 - [Overview](#overview)
 - [Configuration](#configuration)
@@ -23,14 +23,15 @@ In this lab, we will introduce how to program with [Pepper](https://www.ald.soft
 
 ## Overview
 
-### What is Pepper?
+
+### What is _Pepper_?
 
 [Pepper](https://en.wikipedia.org/wiki/Pepper_(robot)) is a humanoid robot by Aldebaran Robotics and SoftBank designed with the ability to read emotions. The [official website](http://doc.aldebaran.com/2-4/family/pepper_technical/index_pep.html) provides a technical overview of Pepper and you can find out its structure as well as the other technical details from the instruction. You can also refer to an
 <img src="./images/PEPPERbrochure_EN.pdf" alt="official brochure"  width="100%"> to obtain more general information. During the experiment, you can interact with Pepper through [contact and tactile sensors](http://doc.aldebaran.com/2-4/family/pepper_technical/contact-sensors_pep.html).
 
 ![](images/imagePepperSpec_EN.jpg)
 
-### What is Choregraphe?
+### What is _Choregraphe_?
 
 [Choregraphe](https://developer.softbankrobotics.com/us-en/downloads/pepper) is a multi-platform development application with graphical user interface. It allows you to create animations and behaviors on Pepper, test them on a simulated robot or directly on a real one, monitor and control Pepper, etc.
 
@@ -51,13 +52,11 @@ You can acquire the detail information about the bridge through [this](https://a
 
 ## Development
 
-### Mobile demo
-[Philips Hue](https://itunes.apple.com/us/app/philips-hue/id1055281310?mt=8) (by Philips Lighting BV) is a mobile application that lets you easily control your lights from any device and create the right ambience for every moment.
+### Flow chart
 
-### Web demo
-[Harmony for Philips Hue](http://benknight.github.io/hue-harmony/) is an open sourced web application that sets Philips Hue lights colors based on the color relationships.
+### Detailed explanation
 
-### Live Demo
+### Live demo
 We will follow the tutorials [here](https://developers.meethue.com/documentation/getting-started) to show how to get familiar with the programming environments with Hue.
 
 First, we need to obtain the _Internal IP Address_ and bridge assigned _Username_. After get connected with Hue bulb(s) via your devices, we can acquire all the bulbs' state through the link:
