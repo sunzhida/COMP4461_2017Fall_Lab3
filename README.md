@@ -33,7 +33,9 @@ In this lab, we will introduce how to program with [Pepper](https://www.ald.soft
 
 #### Hardware
 
-The Pepper robot is 120 cm tall, and weights in 28 kg. It can move around freely through 360 degrees. The Pepper also features 20 degrees of freedom, which means it can move in 20 different ways. This is because it has six motors in each arm, two in the neck, two in the hips, one for the knee, and another three for the wheels (as it has 20 motors in total). Pepper robot can move in any direction while rotating at the same time.
+The Pepper robot is 120 cm tall, and weights in 28 kg. It can move around freely through 360 degrees. The Pepper also features [20 degrees of freedom](http://doc.aldebaran.com/2-5/family/pepper_technical/motors_pep.html), which means it can move in 20 different ways. This is because it has six motors in each arm, two in the neck, two in the hips, one for the knee, and another three for the wheels (as it has 20 motors in total). Pepper robot can move in any direction while rotating at the same time.
+
+Pepper can express itself through [speech](http://doc.aldebaran.com/2-5/family/pepper_technical/loudspeaker_pep.html), [visual display](http://doc.aldebaran.com/2-5/family/pepper_technical/tablet_pep.html) and colorful [LEDs](http://doc.aldebaran.com/2-5/family/pepper_technical/leds_pep.html).
 
 #### Software
 
