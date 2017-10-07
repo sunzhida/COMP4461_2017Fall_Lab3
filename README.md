@@ -82,7 +82,7 @@ After you get the `Demo` folder, please open the `.pml` file with Choregraphe, a
 
 The work flow is designed as below:
 
-![](images/flowchart.jpg)
+![](images/workflow.png)
 
 ### Detailed explanation for each components
 
