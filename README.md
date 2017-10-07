@@ -25,16 +25,16 @@ In this lab, we will introduce how to program with [Pepper](https://www.ald.soft
 
 ### What is _Pepper_?
 
-[Pepper](https://en.wikipedia.org/wiki/Pepper_(robot)) is a humanoid robot by Aldebaran Robotics and SoftBank designed with the ability to read emotions. The [official website](http://doc.aldebaran.com/2-4/family/pepper_technical/index_pep.html) provides a technical overview of Pepper and you can find out its structure as well as the other technical details from the instruction. You can also refer to an
+[Pepper](https://en.wikipedia.org/wiki/Pepper_(robot)) is a humanoid robot by Aldebaran Robotics and SoftBank designed with the ability to read emotions. The [official website](http://doc.aldebaran.com/2-4/family/pepper_technical/index_pep.html) provides a technical overview of the Pepper robot, and you can find out its structure as well as the other technical details from the instruction. You can also refer to an
 <img src="./images/PEPPERbrochure_EN.pdf" alt="official brochure"  width="100%"> to obtain more general information. During the experiment, you can interact with Pepper through [contact and tactile sensors](http://doc.aldebaran.com/2-4/family/pepper_technical/contact-sensors_pep.html).
 
 ![](images/imagePepperSpec_EN.jpg)
 
 #### Hardware
 
-The Pepper robot is 120 cm tall, and weights in 28 kg. It can move around freely through 360 degrees. The Pepper also features [20 degrees of freedom](http://doc.aldebaran.com/2-5/family/pepper_technical/motors_pep.html), which means it can move in 20 different ways. This is because it has six motors in each arm, two in the neck, two in the hips, one for the knee, and another three for the wheels (as it has 20 motors in total). Pepper robot can move in any direction while rotating at the same time.
+The Pepper robot is 120 cm tall, and weights in 28 kg. It can move around freely through 360 degrees. The Pepper also features [20 degrees of freedom](http://doc.aldebaran.com/2-5/family/pepper_technical/motors_pep.html), which means it can move in 20 different ways. It has six motors in each arm, two in the neck, two in the hips, one for the knee, and another three for the wheels (as it has 20 motors in total). Pepper robot can move in any direction while rotating at the same time.
 
-Pepper can express itself through [speech](http://doc.aldebaran.com/2-5/family/pepper_technical/loudspeaker_pep.html), [visual display](http://doc.aldebaran.com/2-5/family/pepper_technical/tablet_pep.html) and colorful [LEDs](http://doc.aldebaran.com/2-5/family/pepper_technical/leds_pep.html). It perceives the world through two [cameras](http://doc.aldebaran.com/2-5/family/pepper_technical/video_pep.html), four [microphones](http://doc.aldebaran.com/2-5/family/pepper_technical/microphone_pep.html) and a 3D [sensor](http://doc.aldebaran.com/2-5/family/pepper_technical/video_3D_pep.html) on his head, as well as several [touch sensors](http://doc.aldebaran.com/2-5/family/pepper_technical/contact-sensors_pep.html) on his body. To navigate safely, the Pepper robot leverages [laser sensors](http://doc.aldebaran.com/2-5/family/pepper_technical/laser_pep.html) and [sonars](http://doc.aldebaran.com/2-5/family/pepper_technical/sonar_pep.html) around the base. Pepper robot uses an embedded PC with an Intel Atom [card](http://doc.aldebaran.com/2-5/family/pepper_technical/motherboard_pep.html).
+Pepper can express itself through [speech](http://doc.aldebaran.com/2-5/family/pepper_technical/loudspeaker_pep.html), [visual display](http://doc.aldebaran.com/2-5/family/pepper_technical/tablet_pep.html), and colorful [LEDs](http://doc.aldebaran.com/2-5/family/pepper_technical/leds_pep.html). It perceives the world through two [cameras](http://doc.aldebaran.com/2-5/family/pepper_technical/video_pep.html), four [microphones](http://doc.aldebaran.com/2-5/family/pepper_technical/microphone_pep.html) and a 3D [sensor](http://doc.aldebaran.com/2-5/family/pepper_technical/video_3D_pep.html) on his head, as well as several [touch sensors](http://doc.aldebaran.com/2-5/family/pepper_technical/contact-sensors_pep.html) on his body. To navigate safely, the Pepper robot leverages [laser sensors](http://doc.aldebaran.com/2-5/family/pepper_technical/laser_pep.html) and [sonars](http://doc.aldebaran.com/2-5/family/pepper_technical/sonar_pep.html) around the base. Pepper robot uses an embedded PC with an Intel Atom [card](http://doc.aldebaran.com/2-5/family/pepper_technical/motherboard_pep.html).
 
 #### Software
 
@@ -50,13 +50,13 @@ N.B.: You can also find out [more](https://www.ald.softbankrobotics.com/en/robot
 
 ### How to install _Choregraphe_ 2.5.5?
 
-By clicking into the [link](https://developer.softbankrobotics.com/us-en/downloads/pepper) of Choregraphe download page, you will get a license key as:
+By clicking on the [link](https://developer.softbankrobotics.com/us-en/downloads/pepper) of Choregraphe download page, you will get a license key as:
 
 ```
 654e-4564-153c-6518-2f44-7562-206e-4c60-5f47-5f45
 ```
 
-Keep it and later we will use this key to activate our application. Download the install package that suits you operating system, and then follow the images below to install the application on your machine.
+Keep it, and later we will use this key to activate our application. Download the install package that suits your operating system, and then follow the images below to install the application on your machine.
 
 - Step one: <br><img src="./images/1.png" alt="step 1" width="50%">
 - Step two: <br><img src="./images/2.png" alt="step 2" width="50%">
@@ -78,15 +78,15 @@ For each part of the interface, i.e., toolbar and other panels, please refer to 
 
 After you get the `Demo` folder, please open the `.pml` file with Choregraphe, and you will see a project created by the same application previously. This project is created for the demonstration of Engineering School on [Information Day](https://infoday.ust.hk/), 2017. We will explain this demo in details:
 
-### Flow chart
+### Flowchart
 
-The work flow is designed as below:
+We design The workflow as below:
 
 ![](images/workflow.png)
 
-### Detailed explanation for each components
+### Detailed explanation for each component
 
-For each components, the detailed design is as below:
+For each component, the detailed design is as below:
 
 | No. | Speech | Screen | Gesture | Sound | Remarks |
 | :------| :------ | :------ | :------ | :------ | :------ |
@@ -118,7 +118,7 @@ Based on the scheme, we can add and change related gestures, screen image or spe
 
 After we finished editing the program, we can upload the program to the Pepper robot while it is in the rest mode. Then we can click the `play` button to test the program on Pepper.
 
-In the _Demo_ folder, the additional sound and image files are stored in the `html` subfolder, while the main program is in `show.pml` file. You can start your program based on that.
+In the _Demo_ folder, the additional sound and image files are stored in the `html` subfolder, while the main program is in the `show.pml` file. You can start your program based on that.
 
 ## Tips
 
