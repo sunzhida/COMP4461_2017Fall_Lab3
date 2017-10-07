@@ -35,7 +35,9 @@ In this lab, we will introduce how to program with [Pepper](https://www.ald.soft
 
 The Pepper robot is 120 cm tall, and weights in 28 kg. It can move around freely through 360 degrees. The Pepper also features [20 degrees of freedom](http://doc.aldebaran.com/2-5/family/pepper_technical/motors_pep.html), which means it can move in 20 different ways. This is because it has six motors in each arm, two in the neck, two in the hips, one for the knee, and another three for the wheels (as it has 20 motors in total). Pepper robot can move in any direction while rotating at the same time.
 
-Pepper can express itself through [speech](http://doc.aldebaran.com/2-5/family/pepper_technical/loudspeaker_pep.html), [visual display](http://doc.aldebaran.com/2-5/family/pepper_technical/tablet_pep.html) and colorful [LEDs](http://doc.aldebaran.com/2-5/family/pepper_technical/leds_pep.html).
+Pepper can express itself through [speech](http://doc.aldebaran.com/2-5/family/pepper_technical/loudspeaker_pep.html), [visual display](http://doc.aldebaran.com/2-5/family/pepper_technical/tablet_pep.html) and colorful [LEDs](http://doc.aldebaran.com/2-5/family/pepper_technical/leds_pep.html). It perceives the world through two [cameras](http://doc.aldebaran.com/2-5/family/pepper_technical/video_pep.html), four [microphones](http://doc.aldebaran.com/2-5/family/pepper_technical/microphone_pep.html) and a 3D [sensor](http://doc.aldebaran.com/2-5/family/pepper_technical/video_3D_pep.html) on his head, as well as several [touch sensors](http://doc.aldebaran.com/2-5/family/pepper_technical/contact-sensors_pep.html) on his body. To navigate safely, the Pepper robot leverages [laser sensors](http://doc.aldebaran.com/2-5/family/pepper_technical/laser_pep.html) and [sonars](http://doc.aldebaran.com/2-5/family/pepper_technical/sonar_pep.html) around the base.
+
+Pepper robot uses an embedded PC with an Intel Atom [card](http://doc.aldebaran.com/2-5/family/pepper_technical/motherboard_pep.html). The OS is a modified Gentoo distribution called OpenNAO with NaoqiOS on top of it. The robotics OS runs all the software from hardware control to AI decision making.
 
 #### Software
 
