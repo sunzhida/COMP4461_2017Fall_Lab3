@@ -31,13 +31,22 @@ In this lab, we will introduce how to program with [Pepper](https://www.ald.soft
 
 ![](images/imagePepperSpec_EN.jpg)
 
+#### Hardware
+
+The Pepper robot features 20 degrees of freedom. That means he can move in 20 different ways, or that he has 20 motors. He has 6 motors in each arm, 2 in the neck, 2 in the hips, 1 for the knee, and finally 3 for the wheels. Pepper robot can move in any direction while rotating at the same time.
+
+#### Software
+
+You can also find out [more](https://www.ald.softbankrobotics.com/en/robots/pepper/find-out-more-about-pepper) about Pepper.
+
 ### What is _Choregraphe_?
 
 [Choregraphe](https://developer.softbankrobotics.com/us-en/downloads/pepper) is a multi-platform development application with graphical user interface. It allows you to create animations and behaviors on Pepper, test them on a simulated robot or directly on a real one, monitor and control Pepper, etc.
 
 ## Configuration
 
-### How to install Choregraphe 2.5.5?
+### How to install _Choregraphe_ 2.5.5?
+
 
 
 First, we need to prepare all the components as mentioned above. Make sure that:
