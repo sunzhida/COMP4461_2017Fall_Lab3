@@ -83,9 +83,10 @@ After you get the `Demo` folder, please open the `.pml` file with Choregraphe, a
 
 ### Detailed explanation for each step
 
-| No. | Speech | Screen | Gesture | Sound |
-| :------| :------ | :------ | :------ | :------ |
-| 1.1 | Hi! Welcome to the Engineering Commons. | Embrace_change |||
+| No. | Speech | Screen | Gesture | Sound | Remarks |
+| :------| :------ | :------ | :------ | :------ | :------ |
+| 1.1 | Hi! Welcome to the Engineering Commons. | Embrace_change ||||
+| 1.2 || Embrace_change ||| Wait for signals |
 
 
 
