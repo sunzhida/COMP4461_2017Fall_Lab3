@@ -1,18 +1,16 @@
 # Robot Programming
 > Lab materials for how to program with Pepper by Choregraphe.<br>
 > Venue: Room 4221, Teaching Lab 1, Academic Building.<br>
-> Date: Nov. 3 & 10, 2017
+> Date: Nov. 3, 2017
 
 [![Choregraphe][chor-image]][chor-url]
-[![Python][py-image]][py-url]
-[![naoqi][qi-image]][qi-url]
 [![License][license-image]][license-url]
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](http://makeapullrequest.com)
 
 <!-- [![Inline docs](http://inch-ci.org/github/sunzhida/COMP4461_2017Fall_Lab2.svg?branch=master)](http://inch-ci.org/github/sunzhida/COMP4461_2017Fall_Lab2) -->
 <!-- [![Build Status][travis-image]][travis-url] -->
 
-In this lab, we will introduce how to program with [Pepper](https://www.ald.softbankrobotics.com/en/robots/pepper) robot by Choregraphe. This lab will be divided into two sessions. For the first session, we will show how to program with Choregraphe. We are going to teach programming with python in the second session. In this repository, there is a demo created by Choregraphe for you to get started.
+In this lab, we will introduce how to program with [Pepper](https://www.ald.softbankrobotics.com/en/robots/pepper) robot by Choregraphe. In this repository, there is a demo created by Choregraphe for you to get started.
 
 ## Table of contents
 
@@ -39,6 +37,8 @@ In this lab, we will introduce how to program with [Pepper](https://www.ald.soft
 ## Configuration
 
 ### How to install Choregraphe 2.5.5?
+
+
 First, we need to prepare all the components as mentioned above. Make sure that:
 * The application connects the local network created by the Wi-Fi router.
 * The Wi-Fi router connects the Internet.
