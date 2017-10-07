@@ -91,8 +91,9 @@ After you get the `Demo` folder, please open the `.pml` file with Choregraphe, a
 | 2.3 || Embrace_change | Disco dance | Saxophone music ||
 | 3.1 | Do you want to know more about today's Engineering admission events? | Embrace_change ||||
 | 3.2 || Embrace_change | Lift forearm to 90 degrees || If `yes`, go to 3.3, otherwise go to 4.1 |
-|||||||
-|||||||
+| 3.3 | Scan me to download the app! Engineering related talks will be held in Lecture Theatre J... K... and H. Besides, Consultation sessions will be provided for both DSE and non-DSE applicants. | Info Day app QR code | Related gestures |||
+| 4.1 | DO you want to see something cool? | Info Day app QR code ||||
+| 4.2 || Info Day app QR code | Lift forearm to 90 degrees ||If `yes`, go to 4.3, otherwise go to 5.1|
 
 
 ### Live demo
