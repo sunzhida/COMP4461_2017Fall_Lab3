@@ -69,11 +69,11 @@ N.B.: You can also refer to the official [installation guide](http://doc.aldebar
 
 ### How to use _Choregraphe_?
 
-Before starting the application, we need to connect to the '**NaoRobotNet**'. Then the initial interface of the application looks like below:
+Before starting the application, we need to connect to the '**NaoRobotNet**' (the password will be announced during the class). Then the initial interface of the application looks like below:
 
 <img src="./images/interface.png" alt="interface" width="50%">
 
-For each part of the interface, i.e., toolbar and other panels, please refer to the detailed explanation from the official [website](http://doc.aldebaran.com/2-5/software/choregraphe/interface.html). There is also a chart which describes each icon in details.
+For each part of the interface, i.e., toolbar and other panels, please refer to the detailed explanation from the official [website](http://doc.aldebaran.com/2-5/software/choregraphe/interface.html). There is also a chart which describes each button in details.
 
 ## Development
 
@@ -83,7 +83,9 @@ After you get the `Demo` folder, please open the `.pml` file with Choregraphe, a
 
 ### Detailed explanation for each step
 
-
+| No. | Speech | Screen | Gesture | Sound |
+| :------| :------ | :------ | :------ | :------ |
+| 1.1 | Hi! Welcome to the Engineering Commons. | Embrace_change |||
 
 
 
