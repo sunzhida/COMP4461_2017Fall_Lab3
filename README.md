@@ -95,7 +95,7 @@ After you get the `Demo` folder, please open the `.pml` file with Choregraphe, a
 | 4.1 | DO you want to see something cool? | Info Day app QR code ||||
 | 4.2 || Info Day app QR code | Lift forearm to 90 degrees ||If `yes`, go to 4.3, otherwise go to 5.1 |
 | 4.3 | On campus today, you can watch robots battle against each other. You can even sign up to play! | Robomaster_image ||||
-| 4.4 || Robomaster_image || Machine gun sound||
+| 4.4 || Robomaster_image | Gorilla action | Machine gun sound||
 | 4.5 | You can see an electric vehicle built by our students| EVcar_image||||
 | 4.6 || EVcar_image | Driving action | Car sound||
 
