@@ -1,5 +1,5 @@
 # Robot Programming
-> Lab materials for how to program with Pepper by Choregraphe.<br>
+> Lab materials for how to program Pepper with Choregraphe.<br>
 > Venue: Room 4221, Teaching Lab 1, Academic Building.<br>
 > Date: Nov. 3, 2017
 
@@ -26,7 +26,7 @@ In this lab, we will introduce how to program with [Pepper](https://www.ald.soft
 ### What is _Pepper_?
 
 [Pepper](https://en.wikipedia.org/wiki/Pepper_(robot)) is a humanoid robot by Aldebaran Robotics and SoftBank designed with the ability to read emotions. The [official website](http://doc.aldebaran.com/2-4/family/pepper_technical/index_pep.html) provides a technical overview of the Pepper robot, and you can find out its structure as well as the other technical details from the instruction. You can also refer to an
-<img src="./images/PEPPERbrochure_EN.pdf" alt="official brochure"  width="100%"> to obtain more general information. During the experiment, you can interact with Pepper through [contact and tactile sensors](http://doc.aldebaran.com/2-4/family/pepper_technical/contact-sensors_pep.html).
+<img src="./images/PEPPERbrochure_EN.pdf" alt="official brochure"  width="100%"> to obtain more general information. During the development, you can interact with Pepper through [contact and tactile sensors](http://doc.aldebaran.com/2-4/family/pepper_technical/contact-sensors_pep.html).
 
 ![](images/imagePepperSpec_EN.jpg)
 
