@@ -80,7 +80,7 @@ After you get the `Demo` folder, please open the `.pml` file with Choregraphe, a
 
 ### Flowchart
 
-We design The workflow as below:
+We design the workflow as below:
 
 ![](images/workflow.png)
 
